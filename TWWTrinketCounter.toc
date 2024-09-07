@@ -1,7 +1,7 @@
 ## Interface: 110002
 ## Title: TWW Trinket Counter
 ## Author: Keenbean
-## Version: 0.2
+## Version: 1.0
 ## SavedVariablesPerCharacter: TrinketsDropped, TotalDrops
 
 main.lua
